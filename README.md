@@ -6,26 +6,27 @@
 <br/>
 I am a seasoned Fullstack Developer with over six years of experience in leveraging the MERN stack (MongoDB, Express, React, Node.js) to craft innovative solutions that drive success for businesses, entrepreneurs, and organizations. My deep understanding of digital technologies, coupled with streamlined deployment strategies, enables me to deliver customized and impactful solutions tailored to the unique needs of startups, small to medium-sized enterprises, and larger organizations.
 
-🌟 𝗪𝗵𝘆 𝗖𝗵𝗼𝗼𝘀𝗲 𝗠𝘆 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀? I provide customized digital growth strategies that adapt to your needs, ensuring impactful results. My strengths include front-end excellence with React and Vue.js, robust back-end solutions with Node.js, Nest, and Express.js, and geospatial expertise for enhanced mapping and secure data management across platforms like Oracle and PostgreSQL.
+🌟 𝗪𝗵𝘆 𝗖𝗵𝗼𝗼𝘀𝗲 𝗠𝘆 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀?<br/>
+I provide customized digital growth strategies that adapt to your needs, ensuring impactful results. My strengths include front-end excellence with React and Vue.js, robust back-end solutions with Node.js, Nest, and Express.js, and geospatial expertise for enhanced mapping and secure data management across platforms like Oracle and PostgreSQL.
 
 🏆𝗠𝘆 𝗡𝗼𝘁𝗮𝗯𝗹𝗲 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀:
-
-✅𝗕𝘂𝗶𝗹𝘁 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗦𝗮𝗮𝗦 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝘀:
+<br/>
+✅𝗕𝘂𝗶𝗹𝘁 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗦𝗮𝗮𝗦 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝘀:<br/>
 Designed and implemented scalable Software as a Service (SaaS) solutions that generated over $100K in revenue, allowing clients to efficiently register new customers and expand their market reach.
 
-✅𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗱 𝗠𝘂𝗹𝘁𝗶-𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 𝗠𝗼𝗯𝗶𝗹𝗲 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀:
+✅𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗱 𝗠𝘂𝗹𝘁𝗶-𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 𝗠𝗼𝗯𝗶𝗹𝗲 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻𝘀:<br/>
 Designed and implemented mobile solutions with React Native, delivering smooth user experiences on various devices and boosting client engagement and retention.
 
-✅𝗜𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁𝗲𝗱 𝗖𝗜/𝗖𝗗 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄𝘀 𝗳𝗼𝗿 𝗙𝗮𝘀𝘁𝗲𝗿 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁:
+✅𝗜𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁𝗲𝗱 𝗖𝗜/𝗖𝗗 𝗪𝗼𝗿𝗸𝗳𝗹𝗼𝘄𝘀 𝗳𝗼𝗿 𝗙𝗮𝘀𝘁𝗲𝗿 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁:<br/>
 Established continuous integration and deployment (CI/CD) workflows that minimized downtime, accelerating project delivery and enhancing team productivity.
 
-✅𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗲𝗱 𝗚𝗜𝗦 𝗮𝗻𝗱 𝗟𝗟𝗠 𝗳𝗼𝗿 𝗨𝗿𝗯𝗮𝗻 𝗣𝗹𝗮𝗻𝗻𝗶𝗻𝗴:
+✅𝗜𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗲𝗱 𝗚𝗜𝗦 𝗮𝗻𝗱 𝗟𝗟𝗠 𝗳𝗼𝗿 𝗨𝗿𝗯𝗮𝗻 𝗣𝗹𝗮𝗻𝗻𝗶𝗻𝗴:<br/>
 Successfully integrated Geographic Information Systems (GIS) with Language Learning Models (LLM) to enhance urban planning capabilities, resulting in high-value projects awarded by the Abu Dhabi Government and AECOM.
 
-✅𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗲𝗱 𝗖𝘂𝘀𝘁𝗼𝗺 𝗤𝗚𝗜𝗦 𝗣𝗹𝘂𝗴𝗶𝗻𝘀 & 𝗘𝗦𝗥𝗜 𝗔𝗱𝗱𝗶𝗻𝘀:
+✅𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗲𝗱 𝗖𝘂𝘀𝘁𝗼𝗺 𝗤𝗚𝗜𝗦 𝗣𝗹𝘂𝗴𝗶𝗻𝘀 & 𝗘𝗦𝗥𝗜 𝗔𝗱𝗱𝗶𝗻𝘀:<br/>
 Developed innovative QGIS plugins and ESRI Addins that streamlined workflows, enabling teams to deliver projects more efficiently and significantly reducing turnaround times.
 
-✅𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗲𝗱 𝗚𝗜𝗦 𝗤𝗔 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗲𝘀 𝗨𝘀𝗶𝗻𝗴 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴:
+✅𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗲𝗱 𝗚𝗜𝗦 𝗤𝗔 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗲𝘀 𝗨𝘀𝗶𝗻𝗴 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴:<br/>
 Leveraged machine learning techniques to automate GIS quality assurance processes, resulting in reduced manual effort and increased reliability of spatial data.
 
 🌟 𝗥𝗲𝗮𝗱𝘆 𝘁𝗼 𝗘𝗹𝗲𝘃𝗮𝘁𝗲 𝗬𝗼𝘂𝗿 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗰𝘂𝘀𝘁𝗼𝗺 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀? Contact me today to discuss how I can deliver tailored, innovative strategies that drive success for your business!
