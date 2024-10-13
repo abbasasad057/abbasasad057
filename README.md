@@ -9,7 +9,7 @@ I am a seasoned Fullstack Developer with over six years of experience in leverag
 🌟 𝗪𝗵𝘆 𝗖𝗵𝗼𝗼𝘀𝗲 𝗠𝘆 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀?<br/>
 I provide customized digital growth strategies that adapt to your needs, ensuring impactful results. My strengths include front-end excellence with React and Vue.js, robust back-end solutions with Node.js, Nest, and Express.js, and geospatial expertise for enhanced mapping and secure data management across platforms like Oracle and PostgreSQL.
 
-🏆𝗠𝘆 𝗡𝗼𝘁𝗮𝗯𝗹𝗲 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀:
+🏆𝗠𝘆 𝗡𝗼𝘁𝗮𝗯𝗹𝗲 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀:<br/>
 <br/>
 ✅𝗕𝘂𝗶𝗹𝘁 𝗦𝗰𝗮𝗹𝗮𝗯𝗹𝗲 𝗦𝗮𝗮𝗦 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝘀:<br/>
 Designed and implemented scalable Software as a Service (SaaS) solutions that generated over $100K in revenue, allowing clients to efficiently register new customers and expand their market reach.
