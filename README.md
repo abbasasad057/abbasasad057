@@ -1,6 +1,6 @@
 # Background & Expertise 💼
 ⭐️ Top Rated Freelancer on Upwork<br/>
-✅ 7+ years of experience<br/>
+✅ 8+ years of experience<br/>
 ✅ Excelling in delivering scalable SaaS Solutions<br/>
 ✅ Proven track record of client satisfaction<br/>
 <br/>
