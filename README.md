@@ -1,10 +1,10 @@
 # Background & Expertise 💼
 ⭐️ Top Rated Freelancer on Upwork<br/>
-✅ 8+ years of experience<br/>
+✅ 8+ years of experience <br/>
 ✅ Excelling in delivering scalable SaaS Solutions<br/>
 ✅ Proven track record of client satisfaction<br/>
 <br/>
-I am a seasoned Fullstack Developer with over five years of experience in leveraging the MERN stack (MongoDB, Express, React, Node.js) to craft innovative solutions that drive success for businesses, entrepreneurs, and organizations. My deep understanding of digital technologies, coupled with streamlined deployment strategies, enables me to deliver customized and impactful solutions tailored to the unique needs of startups, small to medium-sized enterprises, and larger organizations.
+I am a seasoned Fullstack Developer with over eight years of experience in leveraging the MERN stack (MongoDB, Express, React, Node.js) to craft innovative solutions that drive success for businesses, entrepreneurs, and organizations. My deep understanding of digital technologies, coupled with streamlined deployment strategies, enables me to deliver customized and impactful solutions tailored to the unique needs of startups, small to medium-sized enterprises, and larger organizations.
 
 🌟 𝗪𝗵𝘆 𝗖𝗵𝗼𝗼𝘀𝗲 𝗠𝘆 𝗦𝗲𝗿𝘃𝗶𝗰𝗲𝘀?<br/>
 I provide customized digital growth strategies that adapt to your needs, ensuring impactful results. My strengths include front-end excellence with React and Vue.js, robust back-end solutions with Node.js, Nest, and Express.js, and geospatial expertise for enhanced mapping and secure data management across platforms like Oracle and PostgreSQL.
